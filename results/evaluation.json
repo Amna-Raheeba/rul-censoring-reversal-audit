@@ -1,0 +1,335 @@
+{
+  "conditions": [
+    {
+      "mean_achieved_rate": 0.091667,
+      "mean_kendall_tau": 0.97,
+      "mean_winner_penalty": 0.017618,
+      "n_seeds": 20,
+      "regime": "fixed_horizon",
+      "reversal_rate": 0.15,
+      "target_rate": 0.1
+    },
+    {
+      "mean_achieved_rate": 0.191667,
+      "mean_kendall_tau": 0.92,
+      "mean_winner_penalty": 0.054448,
+      "n_seeds": 20,
+      "regime": "fixed_horizon",
+      "reversal_rate": 0.4,
+      "target_rate": 0.2
+    },
+    {
+      "mean_achieved_rate": 0.291667,
+      "mean_kendall_tau": 0.86,
+      "mean_winner_penalty": 0.088987,
+      "n_seeds": 20,
+      "regime": "fixed_horizon",
+      "reversal_rate": 0.6,
+      "target_rate": 0.3
+    },
+    {
+      "mean_achieved_rate": 0.391667,
+      "mean_kendall_tau": 0.82,
+      "mean_winner_penalty": 0.146197,
+      "n_seeds": 20,
+      "regime": "fixed_horizon",
+      "reversal_rate": 0.85,
+      "target_rate": 0.4
+    },
+    {
+      "mean_achieved_rate": 0.491667,
+      "mean_kendall_tau": 0.81,
+      "mean_winner_penalty": 0.176293,
+      "n_seeds": 20,
+      "regime": "fixed_horizon",
+      "reversal_rate": 0.95,
+      "target_rate": 0.5
+    },
+    {
+      "mean_achieved_rate": 0.591667,
+      "mean_kendall_tau": 0.81,
+      "mean_winner_penalty": 0.176293,
+      "n_seeds": 20,
+      "regime": "fixed_horizon",
+      "reversal_rate": 0.95,
+      "target_rate": 0.6
+    },
+    {
+      "mean_achieved_rate": 0.691667,
+      "mean_kendall_tau": 0.81,
+      "mean_winner_penalty": 0.176293,
+      "n_seeds": 20,
+      "regime": "fixed_horizon",
+      "reversal_rate": 0.95,
+      "target_rate": 0.7
+    },
+    {
+      "mean_achieved_rate": 0.134583,
+      "mean_kendall_tau": 0.98,
+      "mean_winner_penalty": 0.00616,
+      "n_seeds": 20,
+      "regime": "random",
+      "reversal_rate": 0.1,
+      "target_rate": 0.1
+    },
+    {
+      "mean_achieved_rate": 0.202917,
+      "mean_kendall_tau": 0.95,
+      "mean_winner_penalty": 0.021367,
+      "n_seeds": 20,
+      "regime": "random",
+      "reversal_rate": 0.25,
+      "target_rate": 0.2
+    },
+    {
+      "mean_achieved_rate": 0.3,
+      "mean_kendall_tau": 0.93,
+      "mean_winner_penalty": 0.034131,
+      "n_seeds": 20,
+      "regime": "random",
+      "reversal_rate": 0.35,
+      "target_rate": 0.3
+    },
+    {
+      "mean_achieved_rate": 0.400833,
+      "mean_kendall_tau": 0.89,
+      "mean_winner_penalty": 0.063864,
+      "n_seeds": 20,
+      "regime": "random",
+      "reversal_rate": 0.55,
+      "target_rate": 0.4
+    },
+    {
+      "mean_achieved_rate": 0.500833,
+      "mean_kendall_tau": 0.87,
+      "mean_winner_penalty": 0.092375,
+      "n_seeds": 20,
+      "regime": "random",
+      "reversal_rate": 0.65,
+      "target_rate": 0.5
+    },
+    {
+      "mean_achieved_rate": 0.598333,
+      "mean_kendall_tau": 0.86,
+      "mean_winner_penalty": 0.106386,
+      "n_seeds": 20,
+      "regime": "random",
+      "reversal_rate": 0.7,
+      "target_rate": 0.6
+    },
+    {
+      "mean_achieved_rate": 0.701667,
+      "mean_kendall_tau": 0.82,
+      "mean_winner_penalty": 0.164403,
+      "n_seeds": 20,
+      "regime": "random",
+      "reversal_rate": 0.9,
+      "target_rate": 0.7
+    },
+    {
+      "mean_achieved_rate": 0.097083,
+      "mean_kendall_tau": 0.99,
+      "mean_winner_penalty": 0.001237,
+      "n_seeds": 20,
+      "regime": "failure_dependent",
+      "reversal_rate": 0.05,
+      "target_rate": 0.1
+    },
+    {
+      "mean_achieved_rate": 0.202083,
+      "mean_kendall_tau": 0.98,
+      "mean_winner_penalty": 0.003759,
+      "n_seeds": 20,
+      "regime": "failure_dependent",
+      "reversal_rate": 0.1,
+      "target_rate": 0.2
+    },
+    {
+      "mean_achieved_rate": 0.300833,
+      "mean_kendall_tau": 0.95,
+      "mean_winner_penalty": 0.022833,
+      "n_seeds": 20,
+      "regime": "failure_dependent",
+      "reversal_rate": 0.25,
+      "target_rate": 0.3
+    },
+    {
+      "mean_achieved_rate": 0.39875,
+      "mean_kendall_tau": 0.94,
+      "mean_winner_penalty": 0.028119,
+      "n_seeds": 20,
+      "regime": "failure_dependent",
+      "reversal_rate": 0.3,
+      "target_rate": 0.4
+    },
+    {
+      "mean_achieved_rate": 0.50125,
+      "mean_kendall_tau": 0.92,
+      "mean_winner_penalty": 0.047483,
+      "n_seeds": 20,
+      "regime": "failure_dependent",
+      "reversal_rate": 0.4,
+      "target_rate": 0.5
+    },
+    {
+      "mean_achieved_rate": 0.599167,
+      "mean_kendall_tau": 0.87,
+      "mean_winner_penalty": 0.103838,
+      "n_seeds": 20,
+      "regime": "failure_dependent",
+      "reversal_rate": 0.65,
+      "target_rate": 0.6
+    },
+    {
+      "mean_achieved_rate": 0.700417,
+      "mean_kendall_tau": 0.84,
+      "mean_winner_penalty": 0.139287,
+      "n_seeds": 20,
+      "regime": "failure_dependent",
+      "reversal_rate": 0.8,
+      "target_rate": 0.7
+    }
+  ],
+  "headline": {
+    "failure_dependent@0.1": {
+      "mean_kendall_tau": 0.99,
+      "mean_winner_penalty": 0.0012,
+      "reversal_rate": 0.05
+    },
+    "failure_dependent@0.2": {
+      "mean_kendall_tau": 0.98,
+      "mean_winner_penalty": 0.0038,
+      "reversal_rate": 0.1
+    },
+    "failure_dependent@0.3": {
+      "mean_kendall_tau": 0.95,
+      "mean_winner_penalty": 0.0228,
+      "reversal_rate": 0.25
+    },
+    "failure_dependent@0.4": {
+      "mean_kendall_tau": 0.94,
+      "mean_winner_penalty": 0.0281,
+      "reversal_rate": 0.3
+    },
+    "failure_dependent@0.5": {
+      "mean_kendall_tau": 0.92,
+      "mean_winner_penalty": 0.0475,
+      "reversal_rate": 0.4
+    },
+    "failure_dependent@0.6": {
+      "mean_kendall_tau": 0.87,
+      "mean_winner_penalty": 0.1038,
+      "reversal_rate": 0.65
+    },
+    "failure_dependent@0.7": {
+      "mean_kendall_tau": 0.84,
+      "mean_winner_penalty": 0.1393,
+      "reversal_rate": 0.8
+    },
+    "fixed_horizon@0.1": {
+      "mean_kendall_tau": 0.97,
+      "mean_winner_penalty": 0.0176,
+      "reversal_rate": 0.15
+    },
+    "fixed_horizon@0.2": {
+      "mean_kendall_tau": 0.92,
+      "mean_winner_penalty": 0.0544,
+      "reversal_rate": 0.4
+    },
+    "fixed_horizon@0.3": {
+      "mean_kendall_tau": 0.86,
+      "mean_winner_penalty": 0.089,
+      "reversal_rate": 0.6
+    },
+    "fixed_horizon@0.4": {
+      "mean_kendall_tau": 0.82,
+      "mean_winner_penalty": 0.1462,
+      "reversal_rate": 0.85
+    },
+    "fixed_horizon@0.5": {
+      "mean_kendall_tau": 0.81,
+      "mean_winner_penalty": 0.1763,
+      "reversal_rate": 0.95
+    },
+    "fixed_horizon@0.6": {
+      "mean_kendall_tau": 0.81,
+      "mean_winner_penalty": 0.1763,
+      "reversal_rate": 0.95
+    },
+    "fixed_horizon@0.7": {
+      "mean_kendall_tau": 0.81,
+      "mean_winner_penalty": 0.1763,
+      "reversal_rate": 0.95
+    },
+    "mean_reversal_failure_dependent": 0.3643,
+    "mean_reversal_random": 0.5,
+    "random@0.1": {
+      "mean_kendall_tau": 0.98,
+      "mean_winner_penalty": 0.0062,
+      "reversal_rate": 0.1
+    },
+    "random@0.2": {
+      "mean_kendall_tau": 0.95,
+      "mean_winner_penalty": 0.0214,
+      "reversal_rate": 0.25
+    },
+    "random@0.3": {
+      "mean_kendall_tau": 0.93,
+      "mean_winner_penalty": 0.0341,
+      "reversal_rate": 0.35
+    },
+    "random@0.4": {
+      "mean_kendall_tau": 0.89,
+      "mean_winner_penalty": 0.0639,
+      "reversal_rate": 0.55
+    },
+    "random@0.5": {
+      "mean_kendall_tau": 0.87,
+      "mean_winner_penalty": 0.0924,
+      "reversal_rate": 0.65
+    },
+    "random@0.6": {
+      "mean_kendall_tau": 0.86,
+      "mean_winner_penalty": 0.1064,
+      "reversal_rate": 0.7
+    },
+    "random@0.7": {
+      "mean_kendall_tau": 0.82,
+      "mean_winner_penalty": 0.1644,
+      "reversal_rate": 0.9
+    },
+    "worst_condition": {
+      "mean_winner_penalty": 0.1763,
+      "regime": "fixed_horizon",
+      "reversal_rate": 0.95,
+      "target_rate": 0.5
+    }
+  },
+  "n_seeds": 20,
+  "seeds": [
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120
+  ],
+  "truth_winner_counts": {
+    "exponential_trend": 1,
+    "knn_trajectory": 19
+  }
+}
