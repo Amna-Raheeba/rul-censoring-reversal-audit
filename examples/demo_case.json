@@ -1,0 +1,17 @@
+{
+  "d0": 0.083348,
+  "failure_time": 203.553,
+  "group": "fast",
+  "prediction_ages": [
+    40,
+    80,
+    120
+  ],
+  "rate": 0.012207,
+  "true_rul_at_ages": [
+    163.55,
+    123.55,
+    83.55
+  ],
+  "unit_id": "U000"
+}
