@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rul-censoring-reversal-audit"
+version = "0.1.0"
+description = "A stress-audit showing how right-censoring reverses remaining-useful-life (RUL) model leaderboards: rank-reversal rate under controlled censoring regimes vs the uncensored ground truth."
+requires-python = ">=3.10"
+license = {text = "MIT"}
+
+[project.optional-dependencies]
+dashboard = ["streamlit>=1.30"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
